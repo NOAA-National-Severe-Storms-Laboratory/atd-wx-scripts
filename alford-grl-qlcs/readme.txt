@@ -4,4 +4,4 @@ Citation: Alford, A. A., C. M. Kuster, and R. L. Miller, 2025: Dual-Polarization
 
 The ATD data relevant to the included scripts are housed at data.nssl.noaa.gov.
 
-The SAMURAI analyses relevant to the included scripts are housed at DOI: XXXX.
+The SAMURAI analyses relevant to the included scripts are housed at DOI: 10.5281/zenodo.15485125.
